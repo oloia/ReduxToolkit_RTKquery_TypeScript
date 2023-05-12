@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "test",
+      "body": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "json-server 5",
+      "body": "typicode"
+    },
+    {
+      "id": 9,
+      "title": "json-server 9",
+      "body": "typicode"
+    },
+    {
+      "id": 10,
+      "title": "678",
+      "body": "typicode"
+    },
+    {
+      "id": 11,
+      "title": "json-server 11",
+      "body": "typicode"
+    },
+    {
+      "title": "new",
+      "body": "new",
+      "id": 12
+    },
+    {
+      "title": "test3",
+      "body": "test3",
+      "id": 13
+    },
+    {
+      "title": "new post",
+      "body": "new post",
+      "id": 14
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
