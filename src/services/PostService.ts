@@ -1,7 +1,7 @@
 import {createApi, fetchBaseQuery} from "@reduxjs/toolkit/dist/query/react";
 import { IPost } from '../models/IPost';
 
-
+// for add server https://github.com/typicode/json-server
 
 export const postAPI = createApi({
   reducerPath: 'postAPI',
